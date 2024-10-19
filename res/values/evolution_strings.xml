@@ -520,13 +520,11 @@
     <string name="about_github_title" translatable="false">GitHub</string>
     <string name="about_github_summary">Check out our GitHub</string>
     <string name="about_contributors_title">Contributors</string>
-    <string name="about_contributor_1_title" translatable="false">Joey Huab</string>
-    <string name="about_contributor_1_summary" translatable="false">Founder/Lead Developer</string>
-    <string name="about_contributor_2_title" translatable="false">Anierin Bliss</string>
-    <string name="about_contributor_2_summary" translatable="false">Co-Founder/Co-Developer</string>
-    <string name="about_contributor_3_title" translatable="false">Akito Mizukito</string>
-    <string name="about_contributor_3_summary" translatable="false">Co-Founder/Project Manager</string>
-
+    <string name="about_contributor_1_title" translatable="false">hxfuxyy</string>
+    <string name="about_contributor_1_summary" translatable="false">Lead Developer</string>
+    <string name="about_contributor_2_title" translatable="false">Nexeron</string>
+    <string name="about_contributor_2_summary" translatable="false">Lead Developer</string>
+    
     <!-- Black themes for dark mode -->
     <string name="black_theme_style_title">Black theme styles</string>
     <string name="black_theme_style_berry">Berry black</string>
