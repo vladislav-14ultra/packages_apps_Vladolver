@@ -11,44 +11,14 @@
 
     <!-- Evolution X logo -->
     <com.android.settingslib.widget.LayoutPreference
-        android:key="evolution_logo"
-        android:layout="@layout/evolution_logo"
+        android:key="vlad_logo"
+        android:layout="@layout/vlad_logo"
         android:clickable="false"
         settings:controller="com.android.settings.deviceinfo.firmwareversion.EvolutionXLogoPreferenceController"/>
 
     <!-- Info -->
     <com.android.settingslib.widget.TopIntroPreference
         android:title="@string/about_info" />
-
-    <!-- Website -->
-    <Preference
-        android:title="@string/about_website_title"
-        android:icon="@drawable/ic_about"
-        android:summary="@string/about_website_summary">
-        <intent
-            android:action="android.intent.action.VIEW"
-            android:data="https://evolution-x.org" />
-    </Preference>
-
-    <!-- Discord -->
-    <Preference
-        android:title="@string/about_discord_title"
-        android:icon="@drawable/ic_discord"
-        android:summary="@string/about_discord_summary">
-        <intent
-            android:action="android.intent.action.VIEW"
-            android:data="https://discord.gg/3qbSZHx" />
-    </Preference>
-
-    <!-- Twitter -->
-    <Preference
-        android:title="@string/about_twitter_title"
-        android:icon="@drawable/ic_twitter"
-        android:summary="@string/about_twitter_summary">
-        <intent
-            android:action="android.intent.action.VIEW"
-            android:data="https://twitter.com/EvolutionXROM" />
-        </Preference>
 
     <!-- Github -->
     <Preference
@@ -57,7 +27,7 @@
         android:summary="@string/about_github_summary">
         <intent
             android:action="android.intent.action.VIEW"
-            android:data="https://github.com/Evolution-X" />
+            android:data="https://github.com/vladislav-14ultra" />
     </Preference>
 
     <PreferenceCategory
@@ -70,7 +40,7 @@
             android:summary="@string/about_contributor_1_summary">
             <intent
                 android:action="android.intent.action.VIEW"
-                android:data="https://linktr.ee/joeyhuab" />
+                android:data="https://linktr.ee/zxcwsurx" />
         </Preference>
 
     <!-- Contributor 2 -->
@@ -79,16 +49,7 @@
             android:summary="@string/about_contributor_2_summary">
             <intent
                 android:action="android.intent.action.VIEW"
-                android:data="https://t.me/AnierinB" />
-        </Preference>
-
-    <!-- Contributor 3 -->
-        <Preference
-            android:title="@string/about_contributor_3_title"
-            android:summary="@string/about_contributor_3_summary">
-            <intent
-                android:action="android.intent.action.VIEW"
-                android:data="https://t.me/RealAkito" />
+                android:data="https://t.me/NexeronGTU" />
         </Preference>
 
 </PreferenceScreen>
