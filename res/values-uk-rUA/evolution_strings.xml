@@ -5,8 +5,8 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Evolver -->
-    <string name="evolver_dashboard_title">Evolver</string>
-    <string name="evolver_dashboard_summary">Розвиток як ніколи раніше</string>
+    <string name="evolver_dashboard_title">Vladovler</string>
+    <string name="evolver_dashboard_summary">Деградація як ніколи раніше</string>
     <!-- Categories -->
     <string name="themes_title">Теми</string>
     <string name="themes_summary">Монет, шрифти, значки</string>
@@ -27,7 +27,7 @@
     <string name="miscellaneous_title">Різне</string>
     <string name="miscellaneous_summary">Параметри розробника, спуфінг</string>
     <string name="about_title">Про застосунок</string>
-    <string name="about_summary">Про Evolution X</string>
+    <string name="about_summary">Про VladOS</string>
     <!-- Themes -->
     <string name="themes_monet_category">Функція \"Monet\"</string>
     <string name="themes_monet_title">Налаштування \"Monet\"</string>
@@ -179,7 +179,7 @@
     <string name="status_bar_logo_position_left">Ліва сторона</string>
     <string name="status_bar_logo_position_right">Права сторона</string>
     <string name="status_bar_logo_style_title">Стиль логотипу</string>
-    <string name="status_bar_logo_style_evolution">Логотип Evolution X</string>
+    <string name="status_bar_logo_style_evolution">Логотип VladOS</string>
     <string name="status_bar_logo_style_android">Андроїд</string>
     <string name="status_bar_logo_style_adidas">Adidas</string>
     <string name="status_bar_logo_style_alien">Інопланетянин</string>
@@ -480,7 +480,7 @@
     <string name="navbar_invert_layout_title">Інвертувати порядок кнопок</string>
     <string name="navbar_invert_layout_summary">Інвертує схему панелі навігації та інших елементів, наприклад, перемикач IME</string>
     <!-- About -->
-    <string name="about_info">Еволюція X спрямована на те, щоб забезпечити користувачам відчуття, як у пікселях, з додатковими функціями у вашому розпорядженні</string>
+    <string name="about_info">VladOS не спрямований на те, щоб забезпечити користувачам відчуття, як у пікселях, з додатковими функціями у вашому розпорядженні</string>
     <string name="about_website_title">Сайт</string>
     <string name="about_website_summary">Загляньте до нашої вебсторінки</string>
     <string name="about_twitter_summary">Подивіться наші твіти</string>
