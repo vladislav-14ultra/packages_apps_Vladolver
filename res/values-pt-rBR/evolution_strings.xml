@@ -5,7 +5,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Evolver -->
-    <string name="evolver_dashboard_title">Evolução</string>
+    <string name="evolver_dashboard_title">Vladovler</string>
     <string name="evolver_dashboard_summary">Evoluindo como nunca antes</string>
     <!-- Categories -->
     <string name="themes_title">Temas</string>
@@ -25,7 +25,7 @@
     <string name="miscellaneous_title">Diversos</string>
     <string name="miscellaneous_summary">Opções de desenvolvedor, mascaramento</string>
     <string name="about_title">Sobre</string>
-    <string name="about_summary">Sobre Evolution X</string>
+    <string name="about_summary">Sobre VladOS</string>
     <!-- Themes -->
     <string name="themes_monet_category">Monet</string>
     <string name="themes_monet_title">Configurações do tema Monet</string>
@@ -157,7 +157,7 @@
     <string name="status_bar_logo_position_left">Lado esquerdo</string>
     <string name="status_bar_logo_position_right">Lado direito</string>
     <string name="status_bar_logo_style_title">Estilo do logotipo</string>
-    <string name="status_bar_logo_style_evolution">Evolution X</string>
+    <string name="status_bar_logo_style_evolution">VladOS</string>
     <string name="status_bar_logo_style_android">Android</string>
     <string name="status_bar_logo_style_adidas">Adidas</string>
     <string name="status_bar_logo_style_alien">Alienígena</string>
@@ -400,13 +400,13 @@
     <string name="navbar_invert_layout_title">Inverter botões</string>
     <string name="navbar_invert_layout_summary">Inverte a ordem dos botões da barra de navegação e outros itens, como o seletor de teclado</string>
     <!-- About -->
-    <string name="about_info">Evolução X visa fornecer aos usuários uma sensação de Pixel à primeira vista, com recursos adicionais à sua disposição</string>
+    <string name="about_info">VladOS visa fornecer aos usuários uma sensação de Pixel à primeira vista, com recursos adicionais à sua disposição</string>
     <string name="about_website_title">Site</string>
     <string name="about_website_summary">Sinta-se à vontade para visitar nosso site</string>
     <string name="about_twitter_summary">Visite o nosso Twitter</string>
     <string name="about_discord_summary">Visite o chat da nossa comunidade</string>
     <string name="about_github_summary">Confira o nosso GitHub</string>
-    <string name="about_contributors_title">Equipe Evolution X</string>
+    <string name="about_contributors_title">Equipe VladOS</string>
     <!-- Color Picker -->
     <string name="dialog_color_picker">Seletor de cores</string>
     <string name="press_color_to_apply">Selecione a cor abaixo para aplicar</string>
