@@ -5,8 +5,8 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Evolver -->
-    <string name="evolver_dashboard_title">Evolver</string>
-    <string name="evolver_dashboard_summary">Evolving like never before</string>
+    <string name="evolver_dashboard_title">Vladovler</string>
+    <string name="evolver_dashboard_summary">Vladovling like never before</string>
     <!-- Categories -->
     <string name="themes_title">Tema</string>
     <string name="themes_summary">Monet, font, ikon</string>
@@ -176,7 +176,7 @@
     <string name="status_bar_logo_position_left">Sisi kiri</string>
     <string name="status_bar_logo_position_right">Sisi kanan</string>
     <string name="status_bar_logo_style_title">Gaya logo</string>
-    <string name="status_bar_logo_style_evolution">Evolution X</string>
+    <string name="status_bar_logo_style_evolution">VladOS</string>
     <string name="status_bar_logo_style_android">Android</string>
     <string name="status_bar_logo_style_adidas">Adidas</string>
     <string name="status_bar_logo_style_alien">Alien</string>
@@ -481,13 +481,13 @@
     <string name="navbar_invert_layout_title">Tukar tata letak</string>
     <string name="navbar_invert_layout_summary">Tukar tata letak bilah navigasi dan item lainnya, seperti pengalih IME</string>
     <!-- About -->
-    <string name="about_info">Evolution X bertujuan untuk memberikan pengguna kesan seperti Pixel pada pandangan pertama, dengan fitur tambahan yang dapat anda gunakan</string>
+    <string name="about_info">VladOS bertujuan untuk memberikan pengguna kesan seperti Pixel pada pandangan pertama, dengan fitur tambahan yang dapat anda gunakan</string>
     <string name="about_website_title">Situs web</string>
     <string name="about_website_summary">Jangan ragu untuk mampir ke situs web kami</string>
     <string name="about_twitter_summary">Ayo lihat tweet kami</string>
     <string name="about_discord_summary">Kunjungi obrolan komunitas kami</string>
     <string name="about_github_summary">Lihat GitHub kami</string>
-    <string name="about_contributors_title">Tim Evolution X</string>
+    <string name="about_contributors_title">Tim VladOS</string>
     <!-- Black themes for dark mode -->
     <string name="black_theme_style_title">Gaya tema gelap</string>
     <string name="black_theme_style_berry">Hitam berry</string>
